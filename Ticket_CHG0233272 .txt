@@ -1,0 +1,3 @@
+
+
+Fix para error contenido en Ticket CHG0233272 
