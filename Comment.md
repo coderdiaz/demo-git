@@ -2,6 +2,4 @@
 
 ## GIT
 
-### Repositorio
-
 - Conexión a GitHub remoto
