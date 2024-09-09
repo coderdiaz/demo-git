@@ -1,0 +1,137 @@
+[33mcommit fadfc6c40d44e0d5b9c635dd3231d5eed03e36a0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: d5ebfef 5a53af7
+Author: Kevin <garibokevin@gmail.com>
+Date:   Mon Sep 9 11:42:18 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit d5ebfef1415dbb5b6c15460857c1ab183cf069b4[m
+Author: Kevin <garibokevin@gmail.com>
+Date:   Mon Sep 9 11:41:32 2024 -0600
+
+    Otro commit
+
+[33mcommit 5a53af7d7525c611969e7b651093296a57b2f722[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 65671f5 bf1ea48
+Author: MarcoG <marcomovit.gutierrez@arcelormittal.com>
+Date:   Mon Sep 9 11:41:27 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit 65671f53c90691e60059ae28ccabd6ee581e7240[m
+Merge: c47122e 8de2980
+Author: MarcoG <marcomovit.gutierrez@arcelormittal.com>
+Date:   Mon Sep 9 11:40:55 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit bf1ea488ec749c04da3352c29883c6553bf70da9[m
+Merge: 084e1fc 8de2980
+Author: User1 <daniel.bustos1@arcelormittal.com>
+Date:   Mon Sep 9 11:40:13 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit c47122ef3c2f3f420ae5c4b957a9202700974376[m
+Merge: 4ffdb21 b9b5ccf
+Author: MarcoG <marcomovit.gutierrez@arcelormittal.com>
+Date:   Mon Sep 9 11:39:51 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit 084e1fc6f2a3e8790b8fc5122945e8839dc04c7f[m
+Merge: f5f0df6 af225d7
+Author: User1 <daniel.bustos1@arcelormittal.com>
+Date:   Mon Sep 9 11:39:05 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit 8de29805bdfec8779e6667ee7a6a4c3785e47c8e[m
+Merge: edef0bc af225d7
+Author: ArcelorMittalDeveloper <74074271+ArcelorMittalDeveloper@users.noreply.github.com>
+Date:   Mon Sep 9 11:38:34 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit f5f0df618a193ddd39f47b26ba9e3d927103c6d8[m
+Author: User1 <daniel.bustos1@arcelormittal.com>
+Date:   Mon Sep 9 11:37:55 2024 -0600
+
+    Modificando mi archivo de texto
+
+[33mcommit af225d7beee113b13e2b1b647abe6b467ff36212[m
+Merge: 59effdd 5fb808c
+Author: EJBY <Egdar.Benitez@arcelormittal.com>
+Date:   Mon Sep 9 11:37:18 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit edef0bc98db95d5b3e9d63bfd28098d02cdf31d9[m
+Merge: dfbe4ac 5fb808c
+Author: ArcelorMittalDeveloper <74074271+ArcelorMittalDeveloper@users.noreply.github.com>
+Date:   Mon Sep 9 11:36:59 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit 59effddf8dc6eb69842a00a41cbf36d77617038f[m
+Merge: 18cb28b b9b5ccf
+Author: EJBY <Egdar.Benitez@arcelormittal.com>
+Date:   Mon Sep 9 11:35:34 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit 5fb808c4e70b540c8a0aac2e45ce9dedcb70c822[m
+Merge: 2078170 b9b5ccf
+Author: abnerbenitez <abner.benitez@arcelormittal.com>
+Date:   Mon Sep 9 11:35:26 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit b9b5ccf6cca3387013de7f1f45bb63dfc06e94f0[m
+Merge: f84fc85 32ff7ce
+Author: Kevin <garibokevin@gmail.com>
+Date:   Mon Sep 9 11:34:38 2024 -0600
+
+    Merge branch 'main' of https://github.com/coderdiaz/demo-git
+
+[33mcommit 18cb28b4fb3da05d607adeed606d4f3ae18d3dfa[m
+Author: EJBY <Egdar.Benitez@arcelormittal.com>
+Date:   Mon Sep 9 11:33:37 2024 -0600
+
+    add EJBY.txt
+
+[33mcommit 2078170feb1f3aceea293964107a7d56806a63f5[m
+Author: abnerbenitez <abner.benitez@arcelormittal.com>
+Date:   Mon Sep 9 11:33:30 2024 -0600
+
+    MiprimerCambio
+
+[33mcommit 4ffdb21ccc69ad71926863b69eda13c1c024703f[m
+Author: MarcoG <marcomovit.gutierrez@arcelormittal.com>
+Date:   Mon Sep 9 11:33:00 2024 -0600
+
+    MarcoG
+
+[33mcommit f84fc8536931a6837d8604385c2808a6d1a1a1ef[m
+Author: Garibo <kevin.garibo@arcelormittal.com>
+Date:   Mon Sep 9 11:32:55 2024 -0600
+
+    Commit de Kevin
+
+[33mcommit dfbe4ac68b143c9f964be66c423bfa9d1ab8d5ec[m
+Author: ArcelorMittalDeveloper <74074271+ArcelorMittalDeveloper@users.noreply.github.com>
+Date:   Mon Sep 9 11:31:01 2024 -0600
+
+    Readme Angel
+
+[33mcommit 32ff7ce8b9207a433cdcf61acb153ece85fec73e[m
+Author: Bustos <daniel.bustos1@arcelormittal.com>
+Date:   Mon Sep 9 11:29:21 2024 -0600
+
+    Prueba de commit
+
+[33mcommit f9ee34f15ba78a2f29fc677333c539a9fb027e1a[m
+Author: Javier Diaz <coderdiaz@gmail.com>
+Date:   Mon Sep 9 10:46:06 2024 -0600
+
+    add readme.md
