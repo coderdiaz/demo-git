@@ -1,0 +1,1 @@
+Archivo para sincronizar con Git
